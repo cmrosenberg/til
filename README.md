@@ -6,3 +6,7 @@ Inspired by [@jbranchaud](https://github.com/jbranchaud/til) and
 small writeups of things I learn. This is first and foremost a mneumonic
 device for me: I don't strive to present genuinely new information, so don't
 be surprised if you get some "well, duh" moments reading these writeups.
+
+### DTrace
+
+-  [The Profile Provider: Differentiating between user-level and kernel-level](dtrace/the-profile-provider-differentiating-user-level-and-kernel-level.md)
