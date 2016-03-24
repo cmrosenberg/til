@@ -10,3 +10,7 @@ be surprised if you get some "well, duh" moments reading these writeups.
 ### DTrace
 
 -  [The Profile Provider: Differentiating between user-level and kernel-level](dtrace/the-profile-provider-differentiating-user-level-and-kernel-level.md)
+
+### LaTeX
+
+-  [Creating LTL paths](latex/creating-ltl-paths.md)
