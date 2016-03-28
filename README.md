@@ -17,4 +17,4 @@ be surprised if you get some "well, duh" moments reading these writeups.
 
 ### Github
 
-- [Github can render CSV files](github/github-can-render-csv-files.md)
+- [Github can render CSV and TSV files](github/github-can-render-csv-and-tsv-files.md)
