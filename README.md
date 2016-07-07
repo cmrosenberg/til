@@ -15,6 +15,10 @@ be surprised if you get some "well, duh" moments reading these writeups.
 
 -  [Creating LTL paths](latex/creating-ltl-paths.md)
 
+### Git
+
+- [Use git extras](git/use-git-extras)
+- [Use git show](git/use-git-show)
 ### Github
 
 - [Github can render CSV and TSV files](github/github-can-render-csv-and-tsv-files.md)
