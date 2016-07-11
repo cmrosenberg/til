@@ -17,8 +17,10 @@ be surprised if you get some "well, duh" moments reading these writeups.
 
 ### Git
 
+- [Use git checkout in patch mode](git/use-git-checkout-p.md)
 - [Use git extras](git/use-git-extras)
 - [Use git show](git/use-git-show)
+
 ### Github
 
 - [Github can render CSV and TSV files](github/github-can-render-csv-and-tsv-files.md)
